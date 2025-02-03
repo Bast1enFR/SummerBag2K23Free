@@ -15,7 +15,3 @@ Features :
 
 Texture made by Kas4ndraFR
 
-# Other Project :
-[PAID] BlackAndWhite Top [M] -> [FiveM Post](https://forum.cfx.re/t/paid-black-and-white-top-m/5202665)
-
-
